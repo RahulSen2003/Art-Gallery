@@ -1,0 +1,102 @@
+
+.Art-Gallery{
+    font-size: 3rem;
+    text-align: center;
+}
+.container{
+    background-color: lightgray;
+    box-shadow: 0 0 10px black;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100%;
+    width: 1000px;
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 70px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 12px;
+}
+
+.astronomy-1867616_1280 , .beach-1751455_1280 , .elephant-2380009_1280 , .forest-3119826_1280 , .forest-3622519_1280 , .galaxy-3608029_1280 , .hills-2836301_1280 , .moon-2048727_1280 , .nature-3082832_1280 , .ocean-3605547_1280 , .sunset-404072_1280 , .sunset-3689760_1280{
+    height: 250px;
+    width: 250px;
+    margin: 5px;
+    border-radius: 12px;
+    filter: grayscale(100%);
+}
+
+.astronomy-1867616_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.beach-1751455_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.elephant-2380009_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.forest-3119826_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.forest-3622519_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.galaxy-3608029_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.hills-2836301_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.moon-2048727_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.nature-3082832_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.ocean-3605547_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.sunset-404072_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+.sunset-3689760_1280:hover{
+   filter: grayscale(0%);
+   transform: scale(1.05);
+   box-shadow: 0px 0px 20px;
+   transition: 0.3s;
+}
+
